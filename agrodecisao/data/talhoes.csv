@@ -1,0 +1,5 @@
+id,nome,cultura,area_ha,lat,lon,data_plantio
+1,Talhão Café Serra,cafe,42.5,-21.9400,-46.7600,2019-11-10
+2,Talhão Milho Várzea,milho,60.0,-21.9900,-46.8300,2026-10-05
+3,Talhão Soja Planalto,soja,85.0,-21.9700,-46.7900,2026-10-20
+4,Talhão Batata Norte,batata,25.0,-21.9100,-46.7700,2026-09-25
